@@ -14,7 +14,7 @@ Decide from this repository's code, tests, docs, and history; the Survey's propo
 
 ## A. Verify Setup and Survey
 
-Report each criterion as met or not, with what was checked: one scaffold commit holding exactly scaffold's writes, no body or trailer; `.specs-extraction/` excluded; `spex lint` clean, with `spex` as `SKILL.md` pins it; the authoring language backed by evidence; every surfaces row names a candidate package; every candidate package has an evidence pointer; every test file has a class; every seed has a proposal; the Progress section lists the packages in writing order with the calibration item placed by the skill's rule.
+Report each criterion as met or not, with what was checked: one scaffold commit holding exactly scaffold's writes, no body or trailer; `.specs-extraction/` ignored by git (`git check-ignore`); `spex lint` clean, with `spex` as `SKILL.md` pins it; the authoring language backed by evidence; every surfaces row names a candidate package; every candidate package has an evidence pointer; every test file has a class; every seed has a proposal; the Progress section lists the packages in writing order with the calibration item placed by the skill's rule.
 
 ## B. Review the plan as the owner would
 
